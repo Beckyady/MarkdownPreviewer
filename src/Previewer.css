@@ -1,0 +1,31 @@
+.textAreaDiv {
+    width: 550px;
+    height: 240px;
+    
+    
+    position: relative;
+ top: 20px;
+ left: 350px;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+}
+.textAreaDiv textarea{
+    background-color: skyblue;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding-left: 4px ;
+    padding-right: 4px ;
+    padding-top: 4px ;
+    padding-bottom: 4px ;
+}
+   
+
+.output{
+    width: 800px;
+    height: 1100px;
+    border:1px solid black;
+    position: relative;
+    top: 50px;
+    left: 200px;
+    padding-left: 10px ;
+   /* margin:0 auto ;*/
+   box-shadow: 4px 4px 8px 4px rgba(0.2, 0.2, 0.2, 0.2);
+}
